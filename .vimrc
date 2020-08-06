@@ -21,6 +21,7 @@ Plug 'majutsushi/tagbar'
 Plug 'vim-scripts/indentpython.vim'
 Plug 'lepture/vim-jinja'
 Plug 'pangloss/vim-javascript'
+Plug 'davidhalter/jedi-vim'
 call plug#end()
 
 filetype plugin indent on
