@@ -1,5 +1,5 @@
 # .vimrc
-My vim config (nord theme)
+My vim config for python development with the Nord theme.
 
 ## Plugins:
 
