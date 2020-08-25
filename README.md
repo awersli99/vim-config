@@ -1,6 +1,10 @@
 # .vimrc
 My vim config for python development with the Nord theme.
 
+## Theme:
+
+- https://github.com/arcticicestudio/nord-vim
+
 ## Plugins:
 
 - tpope/vim-sensible
