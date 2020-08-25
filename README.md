@@ -1,9 +1,9 @@
 # .vimrc
-My vim config for python development with the Nord theme.
+My vim config for python development.
 
 ## Theme:
 
-- https://github.com/arcticicestudio/nord-vim
+- Nord-vim: https://github.com/arcticicestudio/nord-vim
 
 ## Plugins:
 
