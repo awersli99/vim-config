@@ -20,4 +20,4 @@ My vim config for python development.
 - vim-scripts/indentpython.vim
 - lepture/vim-jinja
 - pangloss/vim-javascript
-- 'davidhalter/jedi-vim'
+- davidhalter/jedi-vim
